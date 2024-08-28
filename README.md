@@ -13,7 +13,7 @@ Welcome to the **Rock Paper Scissors Game**! This is a simple web-based implemen
 
 ## Demo
 
-You can play the game live [here](#).  
+You can play the game live [here](https://dugyalavaruntej.github.io/Rock-Paper-Scissors-Game/).  
 
 ## Features
 
